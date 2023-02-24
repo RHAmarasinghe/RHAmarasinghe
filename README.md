@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on my Final year project
 - 🌱 I'm currently learning:
   - Tools and technologies for my project
-- - 📬 How to reach me: [rhamarasinghe@gmail.com](mailto:rhamarasinghe@gmail.com)
+- 📬 How to reach me: [rhamarasinghe@gmail.com](mailto:rhamarasinghe@gmail.com)
 
 <!--
 **RHAmarasinghe/RHAmarasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
