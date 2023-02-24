@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi! I'm Rashmi 👋
 
 - 👨‍🎓 I'm a **Software Engineering Undergraduate**
 - 🔭 I’m currently working on my Final year project
