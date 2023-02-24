@@ -1,4 +1,9 @@
 ### Hi there 👋
+🔭 I’m currently working on my Final year project
+🌱 I’m currently learning:
+        - Data Structures and Algorithms on LeetCode
+        - Tools and technologies formy project
+
 
 <!--
 **RHAmarasinghe/RHAmarasinghe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
