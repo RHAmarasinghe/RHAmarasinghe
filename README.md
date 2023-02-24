@@ -1,8 +1,9 @@
 ### Hi there 👋
-### 🔭 I’m currently working on my Final year project
-### 🌱 I’m currently learning:
-        - Data Structures and Algorithms on LeetCode
-        - Tools and technologies formy project
+
+- 👨‍🎓 I'm a **Senior Software Engineering Student**
+- 🔭 I’m currently working on my Final year project
+- 🌱 I'm currently learning:
+  - Tools and technologies for my project
 
 
 <!--
