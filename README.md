@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I’m currently working on my Final year project
-🌱 I’m currently learning:
+### 🔭 I’m currently working on my Final year project
+### 🌱 I’m currently learning:
         - Data Structures and Algorithms on LeetCode
         - Tools and technologies formy project
 
