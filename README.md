@@ -1,9 +1,9 @@
 # Hi! I'm Rashmi 👋
 
-- 👨‍🎓 I'm a **Software Engineering Undergraduate**
+- 👨‍🎓 I'm a **Software Engineer** with experience in .NET and related technologies.
 <!-- - 🔭 I’m currently working on my Final year project -->
 - 🌱 I'm currently learning:
-  - I'm constantly exploring new languages, frameworks, and tools to expand my skills and knowledge.
+  - Continuously exploring new languages, frameworks, and tools to expand my skills and stay up-to-date with industry trends.
 - 📬 How to reach me: [rhamarasinghe@gmail.com](mailto:rhamarasinghe@gmail.com)
 
 ---
